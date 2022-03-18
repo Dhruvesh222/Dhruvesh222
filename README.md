@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhruvesh-bhure-839362201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvesh-bhure-839362201/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Dhruvesh222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvesh-bhure-839362201/" height="30" width="40" /></a>
 <a href="https://fb.com/dhruvesh.bhure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruvesh.bhure" height="30" width="40" /></a>
 </p>
 
